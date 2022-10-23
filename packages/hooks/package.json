@@ -1,6 +1,6 @@
 {
   "name": "@codemao/hooks",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "",
   "main": "index.ts",
   "module": "index.ts",
@@ -10,5 +10,6 @@
   },
   "keywords": [],
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "gitHead": "2cdf61f894a37d2525b5c64e07daeb0d53d85c82"
 }
