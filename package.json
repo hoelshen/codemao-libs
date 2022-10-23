@@ -4,8 +4,6 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "publish": "lerna publish --no-push",
-    "postversion": "git push --follow-tags --no-verify origin master"
   },
   "keywords": [],
   "author": "",
