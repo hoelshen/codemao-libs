@@ -17,5 +17,9 @@
         "tests"
       ]
     }
-  }
+  },
+   "workspaces": [
+    "packages/*"
+  ],
+  "private": true
 }
