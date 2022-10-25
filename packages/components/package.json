@@ -1,6 +1,6 @@
 {
   "name": "@codemao/components",
-  "version": "1.0.9",
+  "version": "1.0.10",
   "description": "",
   "main": "index.js",
   "type": "module",
@@ -11,7 +11,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "@codemao/hooks": "^1.0.7"
+    "@codemao/hooks": "^1.0.8"
   },
   "gitHead": "2cdf61f894a37d2525b5c64e07daeb0d53d85c82"
 }
